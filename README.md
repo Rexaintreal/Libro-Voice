@@ -28,7 +28,7 @@ I have used customtkinter for the GUI and pyssxt3 for converting the voice
 
 ## Built With
 
-* [CustomTkinter](https://github.com/TomSchimansky/CustomTkinte) 
+* [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) 
 
 
 ## Authors
